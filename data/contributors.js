@@ -36,14 +36,14 @@ const contributors = [
     github: "https://github.com/rahulkarda",
     gender: "male",
   },
-   {
-        name : "Deep das",
-        branch : "CSE-AIML",
-        college : "Haldia Institute of Technology",
-        year : 2024, 
-        linkedin : "https://www.linkedin.com/in/myselfdeepdas",
-        github : "https://github.com/myselfdeepdas",
-        gender : "male"
+  {
+    name: "Deep das",
+    branch: "CSE-AIML",
+    college: "Haldia Institute of Technology",
+    year: 2024,
+    linkedin: "https://www.linkedin.com/in/myselfdeepdas",
+    github: "https://github.com/myselfdeepdas",
+    gender: "male",
   },
   {
     name: "Sattyam Samania",
@@ -1506,6 +1506,15 @@ const contributors = [
     year: 2016,
     linkedin: "https://www.linkedin.com/in/BasharVI",
     github: "https://github.com/BasharVI",
+    gender: "male",
+  },
+  {
+    name: "PRIYAM SAHA",
+    branch: "CSE",
+    college: "JADAVPUR UNIVERSITY",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/priyam-saha-20057921b/",
+    github: "https://github.com/priyam-03/",
     gender: "male",
   },
 ];
